@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body {
+    background-color: black;
+}
+
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+#logo {
+    height: 70px;
+    width: 50px;
+    
+}
+#foto-perfil {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    
+}
+#header-nav {
+    display: flex;
+    margin-right: 10px;
+    border-top: 10px;
+}
+
+        a {
+            font-family: "Roboto Condensed", sans-serif;
+            padding-left: 19px;
+            /* text-decoration: none remove o sublinhado do link ou quaisquer outras decorações que uma tag tetual possa ter */
+            text-decoration: none;
+        }
+        #nome-usuario {
+            font-family: "Google Sans", sans-serif;
+        }
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-left: 19px;
+           
+        }
+        #direitos {
+            color: blueviolet;
+            font-size: 20px;
+        }
+

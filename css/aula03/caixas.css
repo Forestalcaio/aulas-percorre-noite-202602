@@ -1,0 +1,22 @@
+/* para invocar um id utilizamos #nomedoId
+E para invocar uma classe utilizamos .nomedaclasse */
+.quadrados{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    border: 5px rgb(24, 51, 255) dashed;
+}
+
+#lebron {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+}
+#container{
+    background-color: brown;
+border: 5px solid green;
+padding-top: 30px;
+/* invés de utilizarmos todos os comandos de padding,podemos utilizar apenas a versão abreviada que colocara padding na seguinte rdem:topo, direita, baixo e esquerda */
+padding: 20px 300px 10px 300px;
+}
+
