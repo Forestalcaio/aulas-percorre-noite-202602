@@ -1,5 +1,5 @@
-let idade = 16
-let nome = "PAULO"
+let idade = 19
+let nome = "CAIO"
 
 // PARA TIRAR CARTEIRA DE MOTORISTA A PESSOA PRECISA TER 18 OU MAIS ANOS DE IDADE.
 // se você não tem 18 anos anos não é possivel tirar habilitação
