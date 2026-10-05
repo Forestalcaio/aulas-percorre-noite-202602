@@ -2,10 +2,10 @@
 
 // let, var e const são palavras para CRIAR uma variavel
 
-let nome = "PAULO HENRIQUE SOUZA DOS SANTOS"
+let nome = "CAIO GOMES DANTAS"
 
-const dataNasc = "09/06/2010"
-const anoNasc = 2010
+const dataNasc = "18/04/2007"
+const anoNasc = 2007
 var anoAtual = 2026
 
 let idade = anoAtual - anoNasc
