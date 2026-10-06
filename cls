@@ -15,3 +15,12 @@ Author: Caio Gomes Dantas <caio180407@gmail.com>
 Date:   Tue Sep 15 20:57:18 2026 -0300
 
     criado o FOFOCA.HTML
+[33mef99b8e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update variavel.js
+[33mca3d92a[m Update CNH.JS
+[33m408570b[m Criação do index.html que servirá como apresentação do aluno
+[33mf3b7548[m salvando os arquivos de aula
+[33m7797eeb[m CSS aula 01:CSS inline e CSS interno
+[33m6c45910[m adicionando todas as pastas
+[33m993834d[m Apagando parágrafo da linha 4 no FOFOCA.HTML
+[33mda73052[m Adicionado parágrafo na linha 4 do FOFOCA.HTML
+[33m47cd505[m criado o FOFOCA.HTML
